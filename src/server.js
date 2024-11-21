@@ -3,7 +3,7 @@ import routes from "../segunda_parte/routes/index.routes.js"; // import do arqui
 
 
 import { config } from "dotenv";    //chamando tudo do .env
-config(); // carrega as varieáveis de ambiente .env
+config(); // carrega as variáveis de ambiente .env
 
 const app = express(); // criando uma instância do express
 
