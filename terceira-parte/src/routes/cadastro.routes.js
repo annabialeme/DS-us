@@ -24,7 +24,7 @@ cadastroRoutes.post("/adicionar", (req, res) => {
 });
 
 cadastroRoutes.get("/listar", (req, res) => {
-
+    return res.status(200).json(cadastros); // retorna a lista de todos os cadastros
 });
 
 cadastroRoutes.put("/atualizar", (req, res) => {
