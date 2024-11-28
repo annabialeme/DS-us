@@ -18,8 +18,8 @@ Inicializar o servidor com app.listen().
 
 ##😁 Nome dos integrantes
 
-Anna Beatriz Leme Alves,
-Beatriz Lima,
-Anna Beatriz Ribeiro Valentim, 
-Luana Domeneghetti,
-Luiz Aureliano
+Anna Beatriz Leme Alves - Server e o Game Instance
+Beatriz Lima - Metódo GET
+Anna Beatriz Ribeiro Valentim - Método DELETE
+Luana Domeneghetti - Método PUT
+Luiz Aureliano - Método POST
