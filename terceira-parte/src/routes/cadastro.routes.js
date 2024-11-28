@@ -2,8 +2,7 @@ import { Router } from "express";
 
 const cadastroRoutes = Router();
 
-cadastroRoutes.post("/", (req, res) => {
-    const { nome, email, senha } = req.body;
+cadastroRoutes.post("/adicionar", (req, res) => {
 
 });
 
