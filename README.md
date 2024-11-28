@@ -19,6 +19,7 @@ Inicializar o servidor com app.listen().
 ##😁 Nome dos integrantes
 
 Anna Beatriz Leme Alves,
+Beatriz Lima,
 Anna Beatriz Ribeiro Valentim, 
 Luana Domeneghetti,
 Luiz Aureliano
