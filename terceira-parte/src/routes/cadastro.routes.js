@@ -35,5 +35,6 @@ cadastroRoutes.put("/atualizar", (req, res) => {
 cadastroRoutes.delete("/remover", (req, res) => {
 
 });
+});
 
 export default cadastroRoutes;
