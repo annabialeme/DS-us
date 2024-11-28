@@ -1,5 +1,5 @@
 import { Router } from "express";
-
+import cadastroRoutes from "./cadastro.routes.js";
 const rotas = Router();
 
 rotas.get("/", (req, res) => {
@@ -7,8 +7,11 @@ rotas.get("/", (req, res) => {
 });
 
 
-rotas.use((req, res) => {
-  res.status(404).json({ message: "Rota não encontrada." });
-});
+// rotas.use((req, res) => {
+//   res.status(404).json({ message: "Rota não encontrada." });
+// });
+
+rotas.use("/", cadastroRoutes);
+
 
 export default rotas;
