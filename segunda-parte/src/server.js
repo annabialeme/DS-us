@@ -1,5 +1,5 @@
 import express from "express"; // importe do express para criar o servidor
-import routes from "../segunda_parte/routes/index.routes.js"; // import do arquivo routes
+import routes from "../routes/index.routes.js"; // import do arquivo routes
 
 
 import { config } from "dotenv";    //chamando tudo do .env
@@ -17,3 +17,6 @@ app.use(routes); // configurar a middleware de rotas, permite que o server use a
 app.listen(serverPort, () => {
 console.log(`⚡ Server started on http://localhost:${serverPort}`);
 });
+
+
+//Eu luiz alterei a rota do npm no package.json para rodar o server.js pois a src estava na pasta segunda parte não na raiz então o código não rodava 
