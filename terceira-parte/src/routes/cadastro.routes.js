@@ -2,6 +2,7 @@ import { Router } from "express";
 
 const cadastroRoutes = Router();
 
+
 const cadastros = [
     {
         id: 1,
