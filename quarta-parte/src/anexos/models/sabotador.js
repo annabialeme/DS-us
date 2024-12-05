@@ -1,5 +1,5 @@
 // Importa a classe Aluno do arquivo Aluno.js //
-import Aluno from "./Aluno.js";
+import Aluno from ".Aluno.js";
 
 // Define a classe Sabotador que herda da classe Aluno //
 class Sabotador extends Aluno {
