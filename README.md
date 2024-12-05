@@ -18,8 +18,8 @@ Inicializar o servidor com app.listen().
 
 ##😁 Nome dos integrantes
 
-Anna Beatriz Leme Alves - Server e o Game Instance,
-Beatriz Lima - Rota GET, Comentário da CLASS DEV 
-Anna Beatriz Ribeiro Valentim - Rota DELETE no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS SABOTADOR
-Luana Domeneghetti - Rota PUT no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS QUIZ
-Luiz Aureliano - Rota POST no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS ALUNO
+<li>Anna Beatriz Leme Alves - Server e o Game Instance,
+<li>Beatriz Lima - Rota GET, Comentário da CLASS DEV 
+<li>Anna Beatriz Ribeiro Valentim - Rota DELETE no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS SABOTADOR
+<li>Luana Domeneghetti - Rota PUT no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS QUIZ
+<li>Luiz Aureliano - Rota POST no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS ALUNO
