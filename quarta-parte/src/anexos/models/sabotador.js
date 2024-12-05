@@ -34,7 +34,7 @@ class Sabotador extends Aluno {
     if (this.jaVotou === true) {
         throw new Error("Você já votou nesta rodada."); // Lança um erro se já votou //
     }
-    alvo.votos++; // Incremenra o número de votos do jogador alvo //
+    alvo.votos++; // Incrimina o número de votos do jogador alvo //
     this.jaVotou = true; // Marca que o Sabotador já votou nesta rodada //
     return `O jogador ${alvo.apelido} foi votado pelo ${this.apelido} 😈`;
 
