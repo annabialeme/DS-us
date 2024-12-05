@@ -22,4 +22,4 @@ Inicializar o servidor com app.listen().
 <li>Beatriz Lima - Rota GET, Comentário da CLASS DEV 
 <li>Anna Beatriz Ribeiro Valentim - Rota DELETE no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS SABOTADOR
 <li>Luana Domeneghetti - Rota PUT no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS QUIZ
-<li>Luiz Aureliano - Rota POST no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS ALUNO
+<li>Luiz Aureliano - Rota POST no cadastro.routes.js (PASTA: terceira parte), Comentário da CLASS ALUNO (PASTA: primeira parte) que está dentro da quarta parte.
