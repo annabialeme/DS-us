@@ -20,6 +20,6 @@ Inicializar o servidor com app.listen().
 
 Anna Beatriz Leme Alves - Server e o Game Instance
 Beatriz Lima - Metódo GET
-Anna Beatriz Ribeiro Valentim - Método DELETE
+Anna Beatriz Ribeiro Valentim - Rota DELETE
 Luana Domeneghetti - Método PUT
 Luiz Aureliano - Método POST
